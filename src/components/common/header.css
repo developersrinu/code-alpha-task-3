@@ -1,0 +1,16 @@
+.me-auto{
+    padding-left: 40%;
+ 
+}
+.bg-body-tertiary{
+    background-color: var(--lgBlue) !important;
+}
+.containerhead{
+    background-color:  var(--lgBlue) !important;
+
+}
+.navlink{
+    color: white !important;
+    font-size: 1.2rem;
+    background-color: var(--lgBlue) !important;
+}
